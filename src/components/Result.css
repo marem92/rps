@@ -1,0 +1,15 @@
+.result {
+  font-size: 35px;
+  color: white;
+}
+
+p {
+  text-align: center;
+  font-weight: bold;
+}
+
+@media screen and (max-width: 520px) {
+  .result {
+    font-size: 25px;
+  }
+}

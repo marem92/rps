@@ -1,0 +1,50 @@
+.choices {
+  display: flex;
+  justify-content: center;
+}
+
+.choice {
+  border: 10px solid white;
+  border-radius: 50%;
+  margin: 0 20px;
+  transition: all 0.3s ease;
+}
+
+.choice > img {
+  height: 160px;
+  width: 160px;
+}
+
+.choice:hover {
+  cursor: pointer;
+  border: 10px solid purple;
+}
+
+@media screen and (max-width: 640px) {
+  .choice > img {
+    height: 120px;
+    width: 120px;
+  }
+}
+
+@media screen and (max-width: 520px) {
+  .choices {
+    flex-direction: column;
+  }
+  .choice {
+    justify-content: space-between;
+    margin: 10px auto;
+    border-radius: 50%;
+    border: 7px solid white;
+  }
+
+  .choice > img {
+    height: 100px;
+    width: 100px;
+  }
+
+  .choice:hover {
+    cursor: pointer;
+    border: 7px solid purple;
+  }
+}

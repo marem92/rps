@@ -1,0 +1,35 @@
+.button {
+  display: flex;
+  justify-content: center;
+}
+
+.btn {
+  padding: 15px 25px;
+  font-family: "Orbitron", sans-serif;
+  font-weight: bold;
+  font-size: 20px;
+  cursor: pointer;
+  outline: none;
+  color: purple;
+  background-color: white;
+  border: none;
+  border-radius: 20px;
+  box-shadow: 0 9px #999;
+}
+
+.btn:hover {
+  color: white;
+  background: purple;
+}
+
+.btn:active {
+  background-color: purple;
+  box-shadow: 0 3px #666;
+  transform: translateY(4px);
+}
+
+@media screen and (max-width: 520px) {
+  .btn {
+    font-size: 15px;
+  }
+}
