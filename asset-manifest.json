@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/rps/static/css/main.8051d199.chunk.css",
-    "main.js": "/rps/static/js/main.7e0c9935.chunk.js",
-    "main.js.map": "/rps/static/js/main.7e0c9935.chunk.js.map",
-    "runtime~main.js": "/rps/static/js/runtime~main.550c3dbf.js",
-    "runtime~main.js.map": "/rps/static/js/runtime~main.550c3dbf.js.map",
-    "static/js/2.a68ccf2f.chunk.js": "/rps/static/js/2.a68ccf2f.chunk.js",
-    "static/js/2.a68ccf2f.chunk.js.map": "/rps/static/js/2.a68ccf2f.chunk.js.map",
-    "index.html": "/rps/index.html",
-    "precache-manifest.54dda659272b93c659660dddf2c446d5.js": "/rps/precache-manifest.54dda659272b93c659660dddf2c446d5.js",
-    "service-worker.js": "/rps/service-worker.js",
-    "static/css/main.8051d199.chunk.css.map": "/rps/static/css/main.8051d199.chunk.css.map",
-    "static/media/Paper.png": "/rps/static/media/Paper.2156f1a7.png",
-    "static/media/Rock.png": "/rps/static/media/Rock.e2f15b02.png",
-    "static/media/Scissors.png": "/rps/static/media/Scissors.43bb7931.png",
-    "static/media/App.css": "/rps/static/media/background-image.4321e91b.jpg"
+    "main.css": "/rock-paper-scissors-game/static/css/main.4c4d3641.chunk.css",
+    "main.js": "/rock-paper-scissors-game/static/js/main.7e0c9935.chunk.js",
+    "main.js.map": "/rock-paper-scissors-game/static/js/main.7e0c9935.chunk.js.map",
+    "runtime~main.js": "/rock-paper-scissors-game/static/js/runtime~main.e9fe8fce.js",
+    "runtime~main.js.map": "/rock-paper-scissors-game/static/js/runtime~main.e9fe8fce.js.map",
+    "static/js/2.a68ccf2f.chunk.js": "/rock-paper-scissors-game/static/js/2.a68ccf2f.chunk.js",
+    "static/js/2.a68ccf2f.chunk.js.map": "/rock-paper-scissors-game/static/js/2.a68ccf2f.chunk.js.map",
+    "index.html": "/rock-paper-scissors-game/index.html",
+    "precache-manifest.e9dd8a5a92b13c74d5888f2fbac56b23.js": "/rock-paper-scissors-game/precache-manifest.e9dd8a5a92b13c74d5888f2fbac56b23.js",
+    "service-worker.js": "/rock-paper-scissors-game/service-worker.js",
+    "static/css/main.4c4d3641.chunk.css.map": "/rock-paper-scissors-game/static/css/main.4c4d3641.chunk.css.map",
+    "static/media/Paper.png": "/rock-paper-scissors-game/static/media/Paper.2156f1a7.png",
+    "static/media/Rock.png": "/rock-paper-scissors-game/static/media/Rock.e2f15b02.png",
+    "static/media/Scissors.png": "/rock-paper-scissors-game/static/media/Scissors.43bb7931.png",
+    "static/media/App.css": "/rock-paper-scissors-game/static/media/background-image.4321e91b.jpg"
   }
 }
